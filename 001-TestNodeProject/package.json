@@ -1,0 +1,16 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "Node first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2",
+    "rpg-dice-roller": "^5.0.0",
+    "snake-names": "^1.0.9"
+  }
+}
